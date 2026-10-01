@@ -1,0 +1,2 @@
+Student Performance Analysis Dashboard is a data analytics project developed using MS SQL Server, Excel, and Power BI to analyze and visualize student academic performance.
+The project includes data preparation, analysis, and an interactive Power BI dashboard with KPIs and visualizations for total students, average marks, highest total marks, city-wise student distribution, subject-wise performance, and pass/fail analysis.
